@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"importHelpers": true,
+		"module": "commonjs",
+		"target": "es2019",
+		"allowJs": true,
+		"baseUrl": "../node_modules",
+		"types": ["cypress"]
+	},
+	"include": ["src/**/*"]
+}
